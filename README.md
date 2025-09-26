@@ -1,4 +1,4 @@
-Data Warehouse Project – SQL Based
+# Data Warehouse Project – SQL Based
 
 This repository contains a complete Data Warehouse project fully built with SQL.
 The project demonstrates:
