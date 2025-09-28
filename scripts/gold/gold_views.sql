@@ -1,7 +1,5 @@
 ------------------------------------------------------------------------------------
 -- Gold Layer: Dimension & Fact Views
--- Author     : [اسمك]
--- Created On : [تاريخ اليوم]
 -- Description: This script creates the Gold layer (Star Schema) including
 --              Customer Dimension, Product Dimension, and Sales Fact.
 ------------------------------------------------------------------------------------
